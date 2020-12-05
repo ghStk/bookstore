@@ -6,5 +6,6 @@ package com.ghstk.test;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("master - push1");
+        System.out.println("web editor ----");
     }
 }
